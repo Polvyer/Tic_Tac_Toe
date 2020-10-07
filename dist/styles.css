@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(34, 34, 34);
+}
+
+h1 {
+    color: white;
+}
+
+td {
+    color: white;
+    cursor: pointer;
+}
