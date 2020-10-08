@@ -4,9 +4,11 @@ const GameBoard = (() => {
 
     const clearBoard = () => {
         for (let i = 0; i < board.length; i++) {
-            board[i] = '';
+            board[i] = "";
         }
     }
+    
+    clearBoard(); // Ensure board is empty initially
 
     const printBoard = () => {
         console.table(board);
