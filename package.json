@@ -16,8 +16,11 @@
     "popper.js": "^1.16.1"
   },
   "devDependencies": {
+    "css-loader": "^5.0.2",
+    "html-webpack-plugin": "^5.2.0",
     "sass": "^1.26.11",
-    "webpack": "^4.44.2",
-    "webpack-cli": "^3.3.12"
+    "style-loader": "^2.0.0",
+    "webpack": "^5.23.0",
+    "webpack-cli": "^4.5.0"
   }
 }

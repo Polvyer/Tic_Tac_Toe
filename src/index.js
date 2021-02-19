@@ -1,4 +1,6 @@
 import { Rules } from './Rules.js'
+import "bootstrap/dist/css/bootstrap.min.css";
+import "./styles.css";
 
     /* Helper functions */
 function getRandomCell(max) {
